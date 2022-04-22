@@ -1,0 +1,1 @@
+# while-loop-show-series-of-given-number-
